@@ -1,2 +1,2 @@
 # internet-ex
-an overview of internet
+repository to assimilate internet basic knowledge
